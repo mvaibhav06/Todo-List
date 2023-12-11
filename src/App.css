@@ -1,0 +1,30 @@
+.icon {
+  font-size: 2.5rem;
+}
+
+.add-items {
+  display: flex;
+}
+
+.todo-item {
+  display: flex;
+  font-size: 1.5rem;
+  justify-content: space-between;
+}
+
+li {
+  list-style-type: circle;
+  font-size: 2rem;
+}
+
+.list-items {
+  margin-left: 55px;
+}
+
+.icon1 {
+  margin-right: 85px;
+}
+
+.deleted {
+  display: none;
+}
